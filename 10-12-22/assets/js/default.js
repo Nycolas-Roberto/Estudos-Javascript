@@ -13,3 +13,8 @@ document.write((n1+n2)/n1 + "<br>");
 let n = 10;
 n += 10;
 
+n--
+--n
+
+n++
+++n
