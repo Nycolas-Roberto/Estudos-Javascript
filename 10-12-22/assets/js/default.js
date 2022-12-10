@@ -21,3 +21,14 @@ alert(5<=8);
 alert(5==5);
 alert(5!=4); 
 */
+
+/*
+window.document.write(window.navigator.appName)
+*/
+let p1 = window.document.getElementsByTagName('p')[0];
+let corpo = window.document.body
+p1.style.textShadow = '1px 1px 20px black'
+p1.style.color = 'white'
+function mudarcor() {
+    corpo.style.background = 'black';
+}
