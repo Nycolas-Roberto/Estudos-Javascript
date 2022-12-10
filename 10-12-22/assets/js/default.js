@@ -33,8 +33,6 @@ let corpo = window.document.body
 corpo.style.background = "Gray";
 let msg = window.document.getElementById('msg');
 msg.style.fontSize = '2em';
-
-
 let msg = window.document.querySelector('p#msg');
 msg.style.color = 'Blue'
 */
