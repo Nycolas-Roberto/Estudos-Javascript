@@ -16,6 +16,7 @@ if (idade >= 18) {
     console.log('Voto negado')
 }
 */
+
 /*
 let atual = new Date();
 let horas = atual.getHours();
