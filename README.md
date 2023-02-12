@@ -1,2 +1,0 @@
-# Estudos-Javascript
- Curso Javascript
